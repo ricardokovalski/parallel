@@ -1,4 +1,4 @@
-# parallel
+# Parallel Programming
 
 Exemplos de algoritmos com multithreading.
 
